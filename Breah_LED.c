@@ -1,4 +1,4 @@
-/*  Breath_LED - Timer_A,Up Mode, DCO SMCLK
+﻿/*  Breath_LED - Timer_A,Up Mode, DCO SMCLK
 ******************************************************************************
 实现利用改变PWM的占空比来改变LED亮度
 ACLK = na, SMCLK = MCLK = TACLK = default DCO
